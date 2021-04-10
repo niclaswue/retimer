@@ -1,6 +1,8 @@
 # Retimer
 A simple command line timer for MacOS using the Reminders app.
 
+![Example image](example.png?raw=true "Example")
+
 It uses applescript to create a reminder in the Reminders app. This way you get easily notified across all your Apple devices without installing third party apps and without running extra background processes.
 
 Features include:
