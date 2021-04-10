@@ -39,11 +39,11 @@ t --help
 
 All commands below can be called with the --name flag to set an event name. 
 
-### notify at a specific time
+### notify today at a specific time
 ````
 t @17:20
 ````
-### notify at a specific time with event name
+### notify today at a specific time with event name
 ````
 t @8:20 --name Breakfast
 ````
