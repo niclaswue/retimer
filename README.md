@@ -68,6 +68,11 @@ All times are converted to minutes, so it doesn't matter if you input 1h10m or 7
 ````
 t 5x180m+1h10m
 ````
+### multiple timers
+If multiple timers are created at once, all timers get the same name. A name with a space can be put in quotes.
+````
+t 5m 1d 2h10m @17:20 --name "go running"
+````
 
 
 ## Disclaimer
