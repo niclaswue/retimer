@@ -1,16 +1,17 @@
 # Retimer
-A simple command line timer for MacOS using the Reminders app.
+A simple command line timer tool for MacOS using the Reminders app.
+It uses applescript to create a reminder in the Reminders app. This way you get easily notified across all your Apple devices without installing third party apps and without running extra background processes.
 
 ![Example image](example.png?raw=true "Example")
-
-It uses applescript to create a reminder in the Reminders app. This way you get easily notified across all your Apple devices without installing third party apps and without running extra background processes.
 
 Features include:
 
 - notification after countdown (e.g. in 2 days, 5 hours and 2 minutes)
 - notification at specific times (e.g. 10:30)
 - notifications for periodic events (e.g. 5 times every 20 minutes)
-- notifications for Promodoro timers (e.g. 5 times very 20 minutes with 5 minute breaks between blocks)
+- notifications for Promodoro timers (e.g. 5 times every 20 minutes with 5 minute breaks between blocks)
+
+When created, you have all the benefits of the Reminder app, like postponing events and notifications across your devices. 
 
 ## Requirements
 
